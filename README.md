@@ -1,3 +1,3 @@
-# Demo
+# Haloooo
 
-lorem ipsum blablabla
+Ini file GitHub pertama Omar
